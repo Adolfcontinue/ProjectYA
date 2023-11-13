@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Client",
+			"Path": "C:\\Users\\godye\\Desktop\\Project\\ProjectYA\\Client\\Source\\Client.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClientEditor",
+			"Path": "C:\\Users\\godye\\Desktop\\Project\\ProjectYA\\Client\\Source\\ClientEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
