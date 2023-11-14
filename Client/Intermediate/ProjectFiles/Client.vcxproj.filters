@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Client.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7CE51873-39B1-48B0-9A8C-9D5E7AA513B9}</UniqueIdentifier>
+      <UniqueIdentifier>{100E4E43-6EFD-48E9-9640-A97A9742F404}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Client.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DB898BE6-BCDD-48E3-8592-2D764BE98906}</UniqueIdentifier>
+      <UniqueIdentifier>{90C27395-A719-4CE9-B3E2-D47BF894BF57}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Client">
-      <UniqueIdentifier>{4BFFDF35-3B2F-41CD-A1B0-124B1955BB6D}</UniqueIdentifier>
+      <UniqueIdentifier>{BA9A7290-EFE4-48CD-983E-1372945AE9A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Client\Client.Build.cs">
       <Filter>Source\Client</Filter>
@@ -39,6 +39,24 @@
       <Filter>Source\Client</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Client\ClientGameModeBase.h">
+      <Filter>Source\Client</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Client\ClientSocket.cpp">
+      <Filter>Source\Client</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Client\ClientSocket.h">
+      <Filter>Source\Client</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Client\SocketActor.cpp">
+      <Filter>Source\Client</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Client\SocketActor.h">
+      <Filter>Source\Client</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Client\SocketInstance.cpp">
+      <Filter>Source\Client</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Client\SocketInstance.h">
       <Filter>Source\Client</Filter>
     </ClInclude>
   </ItemGroup>

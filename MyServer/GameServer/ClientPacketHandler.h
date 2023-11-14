@@ -7,7 +7,7 @@ extern PacketHandlerFunc GPacketHandler[UINT16_MAX];
 enum Packet_C2P
 {
 	C2P_RequestLogin = 1000,
-	P2C_ResultLogin = 1001
+	P2C_ResultLogin = 1001,
 };
 
 // Custom Handlers
@@ -16,6 +16,7 @@ namespace Handler
 	bool Handle_INVALID(PacketSessionRef& session, BYTE* buffer, int32 len);
 	bool C2P_RequestLogin(PacketSessionRef& session, Protocol::C2P_RequestLogin& pkt);
 }
+
 
 class ClientPacketHandler
 {

@@ -14,4 +14,9 @@ class CLIENT_API AClientGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	AClientGameModeBase();
+
+public:
+	void BeginPlay();
 };

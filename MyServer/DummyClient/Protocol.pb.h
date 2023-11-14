@@ -178,6 +178,38 @@ class C2P_RequestLogin final :
 
   // accessors -------------------------------------------------------
 
+  enum : int {
+    kIdFieldNumber = 1,
+    kPwFieldNumber = 2,
+  };
+  // string id = 1;
+  void clear_id();
+  const std::string& id() const;
+  template <typename ArgT0 = const std::string&, typename... ArgT>
+  void set_id(ArgT0&& arg0, ArgT... args);
+  std::string* mutable_id();
+  PROTOBUF_FUTURE_MUST_USE_RESULT std::string* release_id();
+  void set_allocated_id(std::string* id);
+  private:
+  const std::string& _internal_id() const;
+  inline PROTOBUF_ALWAYS_INLINE void _internal_set_id(const std::string& value);
+  std::string* _internal_mutable_id();
+  public:
+
+  // string pw = 2;
+  void clear_pw();
+  const std::string& pw() const;
+  template <typename ArgT0 = const std::string&, typename... ArgT>
+  void set_pw(ArgT0&& arg0, ArgT... args);
+  std::string* mutable_pw();
+  PROTOBUF_FUTURE_MUST_USE_RESULT std::string* release_pw();
+  void set_allocated_pw(std::string* pw);
+  private:
+  const std::string& _internal_pw() const;
+  inline PROTOBUF_ALWAYS_INLINE void _internal_set_pw(const std::string& value);
+  std::string* _internal_mutable_pw();
+  public:
+
   // @@protoc_insertion_point(class_scope:Protocol.C2P_RequestLogin)
  private:
   class _Internal;
@@ -185,6 +217,8 @@ class C2P_RequestLogin final :
   template <typename T> friend class ::PROTOBUF_NAMESPACE_ID::Arena::InternalHelper;
   typedef void InternalArenaConstructable_;
   typedef void DestructorSkippable_;
+  ::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr id_;
+  ::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr pw_;
   mutable ::PROTOBUF_NAMESPACE_ID::internal::CachedSize _cached_size_;
   friend struct ::TableStruct_Protocol_2eproto;
 };
@@ -330,6 +364,96 @@ class P2C_ResultLogin final :
   #pragma GCC diagnostic ignored "-Wstrict-aliasing"
 #endif  // __GNUC__
 // C2P_RequestLogin
+
+// string id = 1;
+inline void C2P_RequestLogin::clear_id() {
+  id_.ClearToEmpty();
+}
+inline const std::string& C2P_RequestLogin::id() const {
+  // @@protoc_insertion_point(field_get:Protocol.C2P_RequestLogin.id)
+  return _internal_id();
+}
+template <typename ArgT0, typename... ArgT>
+inline PROTOBUF_ALWAYS_INLINE
+void C2P_RequestLogin::set_id(ArgT0&& arg0, ArgT... args) {
+ 
+ id_.Set(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, static_cast<ArgT0 &&>(arg0), args..., GetArenaForAllocation());
+  // @@protoc_insertion_point(field_set:Protocol.C2P_RequestLogin.id)
+}
+inline std::string* C2P_RequestLogin::mutable_id() {
+  // @@protoc_insertion_point(field_mutable:Protocol.C2P_RequestLogin.id)
+  return _internal_mutable_id();
+}
+inline const std::string& C2P_RequestLogin::_internal_id() const {
+  return id_.Get();
+}
+inline void C2P_RequestLogin::_internal_set_id(const std::string& value) {
+  
+  id_.Set(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, value, GetArenaForAllocation());
+}
+inline std::string* C2P_RequestLogin::_internal_mutable_id() {
+  
+  return id_.Mutable(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, GetArenaForAllocation());
+}
+inline std::string* C2P_RequestLogin::release_id() {
+  // @@protoc_insertion_point(field_release:Protocol.C2P_RequestLogin.id)
+  return id_.Release(&::PROTOBUF_NAMESPACE_ID::internal::GetEmptyStringAlreadyInited(), GetArenaForAllocation());
+}
+inline void C2P_RequestLogin::set_allocated_id(std::string* id) {
+  if (id != nullptr) {
+    
+  } else {
+    
+  }
+  id_.SetAllocated(&::PROTOBUF_NAMESPACE_ID::internal::GetEmptyStringAlreadyInited(), id,
+      GetArenaForAllocation());
+  // @@protoc_insertion_point(field_set_allocated:Protocol.C2P_RequestLogin.id)
+}
+
+// string pw = 2;
+inline void C2P_RequestLogin::clear_pw() {
+  pw_.ClearToEmpty();
+}
+inline const std::string& C2P_RequestLogin::pw() const {
+  // @@protoc_insertion_point(field_get:Protocol.C2P_RequestLogin.pw)
+  return _internal_pw();
+}
+template <typename ArgT0, typename... ArgT>
+inline PROTOBUF_ALWAYS_INLINE
+void C2P_RequestLogin::set_pw(ArgT0&& arg0, ArgT... args) {
+ 
+ pw_.Set(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, static_cast<ArgT0 &&>(arg0), args..., GetArenaForAllocation());
+  // @@protoc_insertion_point(field_set:Protocol.C2P_RequestLogin.pw)
+}
+inline std::string* C2P_RequestLogin::mutable_pw() {
+  // @@protoc_insertion_point(field_mutable:Protocol.C2P_RequestLogin.pw)
+  return _internal_mutable_pw();
+}
+inline const std::string& C2P_RequestLogin::_internal_pw() const {
+  return pw_.Get();
+}
+inline void C2P_RequestLogin::_internal_set_pw(const std::string& value) {
+  
+  pw_.Set(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, value, GetArenaForAllocation());
+}
+inline std::string* C2P_RequestLogin::_internal_mutable_pw() {
+  
+  return pw_.Mutable(::PROTOBUF_NAMESPACE_ID::internal::ArenaStringPtr::EmptyDefault{}, GetArenaForAllocation());
+}
+inline std::string* C2P_RequestLogin::release_pw() {
+  // @@protoc_insertion_point(field_release:Protocol.C2P_RequestLogin.pw)
+  return pw_.Release(&::PROTOBUF_NAMESPACE_ID::internal::GetEmptyStringAlreadyInited(), GetArenaForAllocation());
+}
+inline void C2P_RequestLogin::set_allocated_pw(std::string* pw) {
+  if (pw != nullptr) {
+    
+  } else {
+    
+  }
+  pw_.SetAllocated(&::PROTOBUF_NAMESPACE_ID::internal::GetEmptyStringAlreadyInited(), pw,
+      GetArenaForAllocation());
+  // @@protoc_insertion_point(field_set_allocated:Protocol.C2P_RequestLogin.pw)
+}
 
 // -------------------------------------------------------------------
 

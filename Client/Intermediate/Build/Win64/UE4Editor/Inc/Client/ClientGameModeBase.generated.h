@@ -36,7 +36,7 @@ public: \
 
 #define Client_Source_Client_ClientGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AClientGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AClientGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AClientGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AClientGameModeBase); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AClientGameModeBase); \
@@ -48,8 +48,6 @@ public:
 
 
 #define Client_Source_Client_ClientGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AClientGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AClientGameModeBase(AClientGameModeBase&&); \
@@ -57,7 +55,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AClientGameModeBase); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AClientGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AClientGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AClientGameModeBase)
 
 
 #define Client_Source_Client_ClientGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET

@@ -1,9 +1,1 @@
-﻿  pch.cpp
-  Enum.pb.cc
-  Protocol.pb.cc
-  Struct.pb.cc
-  코드를 생성하고 있습니다...
-  ServerPacketHandler.cpp
-  DummyClient.cpp
-  코드를 생성하고 있습니다...
-  DummyClient.vcxproj -> C:\Users\godye\Desktop\Project\ProjectYA\MyServer\Binary\Debug\DummyClient.exe
+﻿

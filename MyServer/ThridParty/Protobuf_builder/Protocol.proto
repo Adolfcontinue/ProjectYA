@@ -6,6 +6,8 @@ import "Struct.proto";
 
 message C2P_RequestLogin
 {
+	string id = 1;
+	string pw = 2;
 }
 
 message P2C_ResultLogin

@@ -37,6 +37,15 @@ void GameSessionManager::BroadCast(SendBufferRef sendBuffer)
 	}
 }
 
+GameSessionRef GameSessionManager::Find(int64 sessionKey)
+{
+	auto iter = _sessionMap.find(sessionKey);
+	if (iter == _sessionMap.end())
+		return nullptr;
+
+	return iter->second;
+}
+
 GameSessionRef GameSessionManager::CreateSession()
 {
 	GameSessionRef retval = MakeShared<GameSession>();
