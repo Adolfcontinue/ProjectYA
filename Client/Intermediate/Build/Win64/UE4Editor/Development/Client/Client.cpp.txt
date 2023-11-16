@@ -1,0 +1,179 @@
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Intermediate\Build\Win64\UE4Editor\Development\Client\Definitions.Client.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Source\Client\Client.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Source\Client\../../Libraries/include/Enum.pb.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/io/coded_stream.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/common.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/macros.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/platform_macros.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/port.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/stringpiece.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/hash.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_set
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/logging.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/status.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/strutil.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/arena.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/arena_impl.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/arenastring.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/generated_message_table_driven.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/map.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\functional
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/generated_enum_util.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/message_lite.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/metadata_lite.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_chrono.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/map_type_handler.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/parse_context.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/io/zero_copy_stream.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/implicit_weak_message.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/repeated_field.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/casts.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/wire_format_lite.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/map_entry_lite.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/generated_message_util.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/any.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/has_bits.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/map_field_lite.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/generated_message_reflection.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/descriptor.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/mutex.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/generated_enum_reflection.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/unknown_field_set.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/io/zero_copy_stream_impl_lite.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/callback.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/stubs/stl_util.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/extension_set.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_def.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Libraries\include\google/protobuf/port_undef.inc
+C:\Users\godye\Desktop\Project\ProjectYA\Client\Source\Client\../../../MyServer/ServerCore/BufferWriter.h

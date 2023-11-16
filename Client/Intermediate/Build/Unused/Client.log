@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\godye\Desktop\Project\ProjectYA).
+  Building ClientEditor...
+  Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] ClientGameModeBase.cpp
+    [2/4] UE4Editor-Client-0003.lib
+       C:\Users\godye\Desktop\Project\ProjectYA\Client\Intermediate\Build\Win64\UE4Editor\Development\Client\UE4Editor-Client-0003.lib 라이브러리 및 C:\Users\godye\Desktop\Project\ProjectYA\Client\Intermediate\Build\Win64\UE4Editor\Development\Client\UE4Editor-Client-0003.exp 개체를 생성하고 있습니다.
+    [3/4] UE4Editor-Client-0003.dll
+       C:\Users\godye\Desktop\Project\ProjectYA\Client\Intermediate\Build\Win64\UE4Editor\Development\Client\UE4Editor-Client-0003.suppressed.lib 라이브러리 및 C:\Users\godye\Desktop\Project\ProjectYA\Client\Intermediate\Build\Win64\UE4Editor\Development\Client\UE4Editor-Client-0003.suppressed.exp 개체를 생성하고 있습니다.
+    [4/4] ClientEditor.target
+  Total time in Parallel executor: 6.62 seconds
+  Total execution time: 7.22 seconds
